@@ -7,7 +7,7 @@
 @attribute npm numeric
 @attribute lcom numeric
 @attribute moa numeric
-@attribute bug2 {no,yes}
+@attribute bug {no,yes}
 
 @data
 16,113,2,9,2,1,0,no
